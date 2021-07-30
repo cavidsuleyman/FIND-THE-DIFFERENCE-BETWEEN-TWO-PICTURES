@@ -1,1 +1,2 @@
-**HTML** vasitəsilə **iframe** tag-ləri çalışması
+**HTML** vasitəsilə hazırlanmış **"Şəkillər arasındakı fərqi tap oyunu"**
+>Burada **iframe**, **table**, **audio**, **map**, **area**, **a** teqlərindən istifadə etməklə 5 dənə tap (1,2,3,4,5) html faylı yaratdım və daha sonra şəkillərdəki fərqi **map** və **area** teqləri vasitəsilə koordinant verdim. Daha sonra tap1, tap2, tap3, tap4 və tap5 html faylarını **a** teqi vasitəsilə **href** atributuna link verərək birləşdirdim. Oyunun əvvəlindən **audio** teqindən istifadə edərək **autoplay** atributu vasitəsilə görünməz bir oyun səsi verdim.
