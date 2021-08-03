@@ -17,7 +17,7 @@ Salam xoş gördük bu dərsimizdə HTML-5 istifadə edərək **FIND-THE-DIFFERE
 > **ADDİM-2:**  yaranan `FIND-THE-DIFFERENCE-BETWEEN-TWO-PICTURES` qovluğuna daxil olun <br/>
 > **ADDİM-3:**  içərisində olduğunuz qovluğu mətn redaktorunda açın <br/>
 > **ADDİM-4:**  ana qovluqda olan `index.html` fayılını işə salın <br/>
-> **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/VIDEO-TAG/archive/refs/heads/master.zip) click edin <br/>
+> **ADDİM-5:**  projecti `.zip` olaraq yükləmək üçün  [buraya](https://github.com/cavidsuleyman/FIND-THE-DIFFERENCE-BETWEEN-TWO-PICTURES/archive/refs/heads/master.zip) click edin <br/>
 
 
 ## TEXNOLOGİYA
