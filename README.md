@@ -13,7 +13,7 @@ Salam xoş gördük bu dərsimizdə HTML-5 istifadə edərək **FIND-THE-DIFFERE
 ## İSTİFADƏ QAYDASI
 
 
-> **ADDIM-1:**   `git clone https://github.com/cavidsuleyman/Audio-TAG.git` <br/>
+> **ADDIM-1:**   `git clone https://github.com/cavidsuleyman/FIND-THE-DIFFERENCE-BETWEEN-TWO-PICTURES.git` <br/>
 > **ADDİM-2:**  yaranan `FIND-THE-DIFFERENCE-BETWEEN-TWO-PICTURES` qovluğuna daxil olun <br/>
 > **ADDİM-3:**  içərisində olduğunuz qovluğu mətn redaktorunda açın <br/>
 > **ADDİM-4:**  ana qovluqda olan `index.html` fayılını işə salın <br/>
